@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{83C0BA85-69C5-626A-8463-C502711BB84C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WidgetCode.cs">
+    <Files>
+      <File FileName="Assets/WidgetCode.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalARVRProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="WidgetCode.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="56185f0f-3e6e-49cb-97c2-c780f70858c1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

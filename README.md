@@ -27,7 +27,7 @@ Script for camera Manipulation
 * 360 degrees whole scene view
 
 #### ScrollClick on towers
-* Click-to-Focus on towers
+* Click-to-Focus on  towers
 
 ## Leap Motion
 LeapMotion integrated to do minimal push integration.
